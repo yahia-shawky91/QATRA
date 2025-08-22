@@ -36,13 +36,13 @@ By combining AI, IoT, and Big Data, the project provides a sustainable, efficien
 # Team Members
 1- Yahia Ali Shawky
 
-2- Hagar Ayman
+2- Hagar Ayman Ali
 
 3- Amin Abdel Wahab Amin
 
-4- Hagar Laithy Laithy
+4- Hagar Laithy Hemaya
 
-5- Noha Ramadan Bosairy
+5- Noha Ramadan Boseiry
 
 6- Abdel Maguid 
 
