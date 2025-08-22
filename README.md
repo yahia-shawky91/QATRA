@@ -44,5 +44,5 @@ By combining AI, IoT, and Big Data, the project provides a sustainable, efficien
 
 5- Noha Ramadan Bosairy
 
-Abdel Maguid 
+6- Abdel Maguid 
 
