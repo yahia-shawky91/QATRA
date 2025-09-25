@@ -93,3 +93,6 @@ Working on graphics is shared among all the team.
 | Amin Abdel Wahab Amin | Research & Data Collection           |
 | Hagar Laithy Hemaya | Research & Data Collection             |
 | Noha Ramadan Boseiry| Market & Competitor Analysis           |
+
+# Market Research and International Commpetitors
+Add International Platforms.pptx
