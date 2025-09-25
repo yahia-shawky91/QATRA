@@ -94,6 +94,10 @@ Working on graphics is shared among all the team.
 | Hagar Laithy Hemaya | Research & Data Collection             |
 | Noha Ramadan Boseiry| Market & Competitor Analysis           |
 
+
 # Market Research and International Commpetitors
 - [International Competitors](docs/International%20Platforms.pptx)
 
+
+# Brainstorming Phase about Logo
+- [QATRA Logo Brainstorming](docs/QATRA%20Logo%20Presentation.pptx)
