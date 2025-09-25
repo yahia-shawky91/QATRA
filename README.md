@@ -26,15 +26,15 @@ To create a sustainable future where every drop of water is efficiently managed,
 # Mission
 QATRA empowers households, industries, and agriculture with intelligent water management solutions by integrating AI, IoT, and big data. Our mission is to:
 
-1- Detect and prevent water loss through real-time monitoring.
+- Detect and prevent water loss through real-time monitoring.
 
-2- Optimize irrigation and consumption with smart analytics.
+- Optimize irrigation and consumption with smart analytics.
 
-3- Facilitate seamless billing and payments for citizens and authorities.
+- Facilitate seamless billing and payments for citizens and authorities.
 
-4- Build a centralized national water database to guide sustainable policies.
+- Build a centralized national water database to guide sustainable policies.
 
-5- Foster a culture of responsibility and efficiency in water usage.
+- Foster a culture of responsibility and efficiency in water usage.
 
 
 # Project Goals
@@ -51,6 +51,27 @@ QATRA empowers households, industries, and agriculture with intelligent water ma
 6- Support sustainable and efficient water resource usage.
 
 
+# Core Values (Keywords)
+
+- Sustainability – Every Drop Counts
+
+- Innovation – AI-Driven Solutions
+
+- Responsibility – Smart Water Use
+
+- Collaboration – Together for Change
+
+- Transparency – Clear & Trusted Data
+
+- Efficiency – Maximum Impact, Minimal Waste
+
+- Empowerment – Users in Control
+
+
+# Slogan
+“Conserve now, protect the future.”
+
+
 # Team Members
 1- Yahia Ali Shawky
 
@@ -63,3 +84,12 @@ QATRA empowers households, industries, and agriculture with intelligent water ma
 5- Noha Ramadan Boseiry
 
 
+# Roles of Team 
+Working on graphics is shared among all the team.
+| Name                | Role                                   |
+|---------------------|----------------------------------------|
+| Yahia Ali Shawky    | Project Lead & Strategy                |
+| Hagar Ayman Ali     | Content Creation & Identity Research   |
+| Amin Abdel Wahab Amin | Research & Data Collection           |
+| Hagar Laithy Hemaya | Research & Data Collection             |
+| Noha Ramadan Boseiry| Market & Competitor Analysis           |
