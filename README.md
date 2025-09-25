@@ -95,5 +95,5 @@ Working on graphics is shared among all the team.
 | Noha Ramadan Boseiry| Market & Competitor Analysis           |
 
 # Market Research and International Commpetitors
-- [International Platforms](docs/International Platforms.pptx)
+- [International Competitors](docs/International%20Platforms.pptx)
 
