@@ -107,9 +107,9 @@ Working on graphics is shared among all the team.
 - [QATRA Brand Guideline](https://drive.google.com/file/d/1LX-genbCpwqPqPG3_rcPPBIhbNLBUuVg/view?usp=sharing)
 
 
-- # Landing Page
+# Landing Page
 - [QATRA Landing Page](https://indd.adobe.com/view/daf32d17-86b2-4e45-b0b9-898241a84b26)
 
 
-- # Find QATRA on Behance
+# Find QATRA on Behance
 - [QATRA on BEHANCE](https://www.behance.net/gallery/238621997/QATRA-Smart-Water-Management-System)
