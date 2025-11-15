@@ -104,7 +104,7 @@ Working on graphics is shared among all the team.
 
 
 # Brand Guideline
-- [QATRA Brand Guideline](https://drive.google.com/file/d/1LX-genbCpwqPqPG3_rcPPBIhbNLBUuVg/view?usp=sharing)
+- [QATRA Brand Guideline](https://drive.google.com/file/d/1__yK_FejEUcAPegJr_4v9Bzr2J7zrCUd/view?usp=sharing)
   
 
 # Landing Page
