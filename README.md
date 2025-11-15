@@ -86,13 +86,13 @@ QATRA empowers households, industries, and agriculture with intelligent water ma
 
 # Roles of Team 
 Working on graphics is shared among all the team.
-| Name                | Role                                   |
-|---------------------|----------------------------------------|
-| Yahia Ali Shawky    | Project Lead & Strategy                |
-| Hagar Ayman Ali     | Content Creation & Identity Research   |
-| Amin Abdel Wahab Amin | Research & Data Collection           |
-| Hagar Laithy Hemaya | Research & Data Collection             |
-| Noha Ramadan Boseiry| Market & Competitor Analysis           |
+| Name                | Role                                                                                           |
+|---------------------|------------------------------------------------------------------------------------------------|
+| Yahia Ali Shawky    | Project Lead, Strategy, Social Media Design, Mockups, Brand Guideline and Landing Page Design  |
+| Hagar Ayman Ali     | Content Creation, Identity Research, Social Media Design and Final Presentation                |
+| Amin Abdel Wahab Amin | Research, Data Collection and Final Presentation                                             |
+| Hagar Laithy Hemaya | Research and Data Collection, Social Media Design, Landing Page animation and Magazine Design  |
+| Noha Ramadan Boseiry| Market and Competitor Analysis, Social Media Design and Banner Design                          |
 
 
 # Market Research and International Commpetitors
@@ -101,3 +101,15 @@ Working on graphics is shared among all the team.
 
 # Brainstorming Phase about Logo
 - [QATRA Logo Brainstorming](docs/QATRA%20Logo%20Presentation.pptx)
+
+
+# Brand Guideline
+- [QATRA Brand Guideline](https://drive.google.com/file/d/1LX-genbCpwqPqPG3_rcPPBIhbNLBUuVg/view?usp=sharing)
+
+
+- # Landing Page
+- [QATRA Landing Page](https://indd.adobe.com/view/daf32d17-86b2-4e45-b0b9-898241a84b26)
+
+
+- # Find QATRA on Behance
+- [QATRA on BEHANCE](https://www.behance.net/gallery/238621997/QATRA-Smart-Water-Management-System)
