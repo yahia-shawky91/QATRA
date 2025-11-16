@@ -96,11 +96,11 @@ Working on graphics is shared among all the team.
 
 
 # Market Research and International Commpetitors
-- [International Competitors](docs/International%20Platforms.pptx)
+- [International Competitors](https://docs.google.com/presentation/d/19v6u8soq3591nYbZgBXFcEsn2vtSgtD7/edit?usp=sharing&ouid=105747590260265297211&rtpof=true&sd=true)
 
 
 # Brainstorming Phase about Logo
-- [QATRA Logo Brainstorming](docs/QATRA%20Logo%20Presentation.pptx)
+- [QATRA Logo Brainstorming](https://docs.google.com/presentation/d/15Z3KjgdrWS4dbyEp7mmQ7S5ib0xr4W2U/edit?usp=sharing&ouid=105747590260265297211&rtpof=true&sd=true)
 
 
 # Brand Guideline
@@ -118,6 +118,3 @@ Working on graphics is shared among all the team.
 # Find QATRA on Behance
 - [QATRA on BEHANCE](https://www.behance.net/gallery/238621997/QATRA-Smart-Water-Management-System)
 
-
-# Magazine
-- [Magazine](https://drive.google.com/file/d/1Ja-6Gah7BkmCNTKlKgXoesttNG-xXA7q/view?usp=sharing)
