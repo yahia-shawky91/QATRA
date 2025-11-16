@@ -117,4 +117,3 @@ Working on graphics is shared among all the team.
 
 # Find QATRA on Behance
 - [QATRA on BEHANCE](https://www.behance.net/gallery/238621997/QATRA-Smart-Water-Management-System)
-
