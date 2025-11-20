@@ -108,7 +108,7 @@ Working on graphics is shared among all the team.
   
 
 # Landing Page
-- [QATRA Landing Page](https://indd.adobe.com/view/daf32d17-86b2-4e45-b0b9-898241a84b26)
+- [QATRA Landing Page](https://indd.adobe.com/view/2eac141f-4796-4254-b71c-f52a3d602a7f)
 
 
 # Final Presentation
