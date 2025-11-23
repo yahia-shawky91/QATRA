@@ -111,6 +111,10 @@ Working on graphics is shared among all the team.
 - [QATRA Landing Page](https://indd.adobe.com/view/2eac141f-4796-4254-b71c-f52a3d602a7f)
 
 
+# Magazine
+- [QATRA Magazine](https://online.fliphtml5.com/yahia_shawky/pgyp/)
+
+
 # Final Presentation
 - [Presentation](https://prezi.com/view/2U8m0hHG7MW53czamF2r/?referral_token=XqROuJlnB3FN)
 
